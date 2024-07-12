@@ -1,9 +1,0 @@
-Zheng, P., Zhang, Y., Fang, Z., Liu, T., Lian, D., Han, B., Beyond Linear Spherical Interpolation: Noise Correction for Image Interpolation with Diffusion Models. In ICLR, 2024.
-
-Jiang, X., Liu, F., Fang, Z., Chen, H., Liu, T., Zheng, F., Han,B., Negative Labels Boost Zero- shot OOD Detection with Pretrained Vision-Language Models. In ICLR, 2024.
-
-Zhang, S., Song, Y., Yang, J., Li, Y., Han, B., Tan, M., Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy. In ICLR, 2024.
-
-Nie, J., Zhang, Y., Fang, Z., Liu, T., Han, B., Tian, X., Out-of-Distribution Detection with Negative Prompts. In ICLR, 2024.
-
-Li, X., Zhou, Z., Zhu, J., Yao, J., Liu, T. and Han, B., Deepinception: Hypnotize large language model to be jailbreaker. In arXiv, 2023.
